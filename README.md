@@ -1,7 +1,7 @@
 # Veni Vici 
 Submitted by: **Sai Rithwik Kukunuri**
 
-For this **Flashcard Web App** project, I have created an interactive system where users can study, learn, or play a guessing game using flashcards. The app displays flashcards in a random order and allows users to flip cards to view either the question or the answer. Users can click through the cards, making learning fun and engaging.
+This web app **Veni Vici** lets users discover random things by clicking a button. It shows an image with details like breed, color, or age. Users can ban certain details, and the app will avoid showing them in future results. Also, you save your history and multiple attributes can be added to ban list!
 
 Time spent: **[2]** hours spent in total
 
@@ -9,11 +9,17 @@ Time spent: **[2]** hours spent in total
 
 The following functionality **goals** have been completed:
 
-- [x] User Input.
-- [x] The user can enter their guess in a box before seeing the flipside of the card.
-- [x] Clicking on a submit button shows visual feedback about whether the answer was correct or incorrect.
-- [x] A back button displayed on the card can be used to return to the previous card in a set sequence
-- [x] A next button displayed on the card can be used to navigate to the next card in a set sequence
+- [x] Application features a button that creates a new API fetch request on click and displays at least three attributes and an image obtained from the returned JSON data
+- [x] Only one item/data from API call response is viewable at a time and at least one image is displayed per API call
+- [x] API call response results should appear random to the user
+- [x] Clicking on a displayed value for one attribute adds it to a displayed ban list
+- [x] Attributes on the ban list prevent further images/API results with that attribute from being displayed
+
+## Stretch Features
+- [x] Multiple types of attributes are clickable and can be added to the ban list
+- [x] Users can see a stored history of their previously displayed results from this session
+- [x] A dedicated section of the application displays all the previous images/attributes seen before
+- [x] Each time the API call button is clicked, the history updates with the newest API result
 
 ## Video Walkthrough
 
@@ -25,7 +31,7 @@ GIF created with GIPHY
 
 ## Notes
 
-The Flashcard Web App allows users to study using flashcards that display a question or an answer. Key challenges in this project included managing the card flipping logic, randomizing the order of the cards, and ensuring smooth transitions between the cards. The app now offers an interactive study tool for users to explore.
+Veni Vici! it's just a random content generator and a simple tool that lets you explore and learn about cats from different countries in the world. All the main features are in place, and I've added extra features to make it more easy to use and look over your history!
 
 ## License
 
