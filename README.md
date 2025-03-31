@@ -1,4 +1,4 @@
-# Flashcard Web App  
+# Veni Vici 
 Submitted by: **Sai Rithwik Kukunuri**
 
 For this **Flashcard Web App** project, I have created an interactive system where users can study, learn, or play a guessing game using flashcards. The app displays flashcards in a random order and allows users to flip cards to view either the question or the answer. Users can click through the cards, making learning fun and engaging.
@@ -19,7 +19,7 @@ The following functionality **goals** have been completed:
 
 Here's a walkthrough of the implemented features:
 
-![via GIPHY](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzc2MjNnbDBodWx1N3dsY3d4eTY2M2x3ZmdmOTdrbmNnanh6OGd0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H6m04iCi3ranUbkJfj/giphy.gif)
+![via GIPHY](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG9saGV2M3p0ajhodnpxZzJkZmQ4cGdxYnBpYmVqMGIwaGdhcTZvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nyTNHFNxfZ2pu0u0tT/giphy.gif)
 
 GIF created with GIPHY
 
