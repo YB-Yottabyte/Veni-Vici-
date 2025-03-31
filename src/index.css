@@ -1,0 +1,78 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  background-image: url(./assets/cat-2.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+
+.left-section {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  background-color: #f0f0f0;
+  color: #000;
+  padding: 15px;
+  width: 300px; /* You can adjust the width */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow-y: scroll;
+}
+
+.history-container {
+  width: 100%;
+  padding: 10px;
+}
+
+.history-item {
+  margin: 10px 0;
+  text-align: center;
+}
+
+.history-item img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.clear-history-btn {
+  background-color: #f44336;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+  font-size: 1.1em;
+}
+
+.clear-history-btn:hover {
+  background-color: #d32f2f;
+}
+
+.right-section {
+  margin-left: 320px;
+}
