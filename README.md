@@ -9,6 +9,9 @@ Time spent: **[2]** hours spent in total
 
 The following functionality **goals** have been completed:
 
+- [x] Make a static API call using async/await and save the results to a state variable
+- [x] Be able to add and edit query parameters for API calls
+- [x] Parse JSON data from an unfamiliar API
 - [x] Application features a button that creates a new API fetch request on click and displays at least three attributes and an image obtained from the returned JSON data
 - [x] Only one item/data from API call response is viewable at a time and at least one image is displayed per API call
 - [x] API call response results should appear random to the user
