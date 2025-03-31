@@ -4,6 +4,7 @@ Submitted by: **Sai Rithwik Kukunuri**
 This web app **Veni Vici** lets users discover random things by clicking a button. It shows an image with details like breed, color, or age. Users can ban certain details, and the app will avoid showing them in future results. Also, you save your history and multiple attributes can be added to ban list!
 
 Time spent: **[2]** hours spent in total
+Vist the Site: **https://veni-vici-steel.vercel.app/**
 
 ## Required Features
 
